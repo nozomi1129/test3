@@ -2,7 +2,7 @@
 
 ## 環境構築
 **Dockerビルド**
-1.
+1.git@github.com:nozomi1129/test3.git
 2. DockerDesktopアプリを立ち上げる
 3. `docker-compose up -d --build`
 
