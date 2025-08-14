@@ -1,0 +1,28 @@
+html,
+body {
+    height: 100%;
+    background-color: #F8F8F8;
+    color: #000;
+}
+
+.header__ttl {
+    font-family: serif;
+    font-style: italic;
+    color: #F5C700;
+    background-color: #fff;
+    padding: 15px;
+    text-decoration: none;
+    display: block;
+}
+
+svg.w-5.h-5 {
+    width: 20px;
+    height: 20px;
+}
+
+.page {
+    margin: 20px auto;
+    font-size: 12px;
+    text-align: center;
+    color: #F5C700;
+}
