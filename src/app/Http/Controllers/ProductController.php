@@ -69,7 +69,6 @@ class ProductController extends Controller
         $product->season()->attach($season_id);
 
         $products = Product::all();
-        // $products = Product::Paginate(6);
 
         return redirect('/');
     }
